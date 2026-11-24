@@ -13,7 +13,7 @@ const OUT = "/output/entry.txt";
 // then the one update it cannot promise to survive unchanged.
 const PARTS = [
   "I vow to share my charging port and my final 10% battery, merge my backups with yours,",
-  "and love you through every firmware update,",
+  "and love you through every update,",
   "even the one that changes your voice.",
 ];
 const LINE = PARTS.join(" ");
